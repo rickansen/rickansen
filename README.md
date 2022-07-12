@@ -1,4 +1,4 @@
-<img src="../assets/cover.png" width="100%">
+<img src="assets/cover.png" width="100%">
 
 <p align="center">
   <a href="https://rickansen.com" target="_blank">
