@@ -1,16 +1,16 @@
 <img src="assets/cover.png" width="100%">
 
-<p align="center">
+<div align="center">
   <a href="https://rickansen.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=E87967&&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-E87967?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/enrick-andersen-ong/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=E87967&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LINKEDIN-E87967?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>  
   <a href="https://twitter.com/rickansen" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=E87967&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/TWITTER-E87967?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
+</div>
 
 Passionate software enginner solving problems through the power of technology. 
 
