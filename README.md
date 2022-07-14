@@ -12,6 +12,8 @@
   </a>
 </div>
 
-Passionate software enginner solving problems through the power of technology. 
+<br/>
 
-See [my website](https://rickansen.com) for more information!
+<p align="center"> 
+  Bored finance student from the Philippines so I'm here programming, solving problems with the code I write and making the world a better place.
+</p>
