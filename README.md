@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://rickansen.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E87967?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/WEBSITE-E87967?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/enrick-andersen-ong/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-E87967?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
