@@ -1,13 +1,13 @@
 <img src="assets/cover.png" width="100%">
 
 <div align="center">
-  <a href="https://rickansen.com" target="_blank">
+  <a href="https://rickansen.com">
     <img src="https://img.shields.io/badge/WEBSITE-E87967?style=for-the-badge&logo=react&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/enrick-andersen-ong/" target="_blank">
+  <a href="https://www.linkedin.com/in/enrick-andersen-ong/">
     <img src="https://img.shields.io/badge/LINKEDIN-E87967?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>  
-  <a href="https://twitter.com/rickansen" target="_blank">
+  <a href="https://twitter.com/rickansen">
     <img src="https://img.shields.io/badge/TWITTER-E87967?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
@@ -31,18 +31,18 @@
 			<td width="50%">
 				<h3 align="center" color="white">Filipino Restaurant</h2>
 				<div align="center" > 
-					<a href="https://fili-resto.netlify.app" target="_blank">
+					<a href="https://fili-resto.netlify.app">
 						<img src="assets/restaurant.gif" alt="Filipino Restaurant website gif"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/rickansen/filipino-restaurant' target="_blank">
+						<a href='https://github.com/rickansen/filipino-restaurant'>
 							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://fili-resto.netlify.app" target="_blank">
+						<a href="https://fili-resto.netlify.app">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
 						</a>	
 					</p>
@@ -53,18 +53,18 @@
 			<td width="50%">
 				<h3 align="center" color="white">Darc & Decadent</h2>
 				<div align="center" > 
-					<a href="https://darc-n-decadent.netlify.app/" target="_blank">
+					<a href="https://darc-n-decadent.netlify.app/">
 						<img src="assets/bakery.gif" alt="Bakery website gif"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/rickansen/chocolate-bakery' target="_blank">
+						<a href='https://github.com/rickansen/chocolate-bakery'>
 							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://darc-n-decadent.netlify.app/" target="_blank">
+						<a href="https://darc-n-decadent.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
 						</a>	
 					</p>
