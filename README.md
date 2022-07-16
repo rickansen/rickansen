@@ -32,7 +32,7 @@
 				<h3 align="center" color="white">Filipino Restaurant</h2>
 				<div align="center" > 
 					<a href="https://fili-resto.netlify.app">
-						<img src="assets/restaurant.gif" alt="Filipino Restaurant website gif" height="270px" />
+						<img src="assets/restaurant.gif" alt="Filipino Restaurant website gif"/>
 					</a>
 					<br>
 					<br>
@@ -54,7 +54,7 @@
 				<h3 align="center" color="white">Darc & Decadent</h2>
 				<div align="center" > 
 					<a href="https://darc-n-decadent.netlify.app/">
-						<img src="assets/bakery.gif" alt="Bakery website gif" height="270px" />
+						<img src="assets/bakery.gif" alt="Bakery website gif"/>
 					</a>
 					<br>
 					<br>
