@@ -23,3 +23,53 @@
 --- 
 
 <h1 align="center">Projects</h1>
+
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Filipino Restaurant</h2>
+				<div align="center" > 
+					<a href="https://fili-resto.netlify.app">
+						<img src="assets/restaurant.gif" alt="Filipino Restaurant website gif" height="270px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/rickansen/filipino-restaurant'>
+							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://fili-resto.netlify.app">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
+						</a>	
+					</p>
+					<p><strong>HTML5 CSS3</strong> - Fictional Filipino restaurant</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Darc & Decadent</h2>
+				<div align="center" > 
+					<a href="https://darc-n-decadent.netlify.app/">
+						<img src="assets/bakery.gif" alt="Bakery website gif" height="270px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/rickansen/chocolate-bakery'>
+							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://darc-n-decadent.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
+						</a>	
+					</p>
+					<p><strong>HTML5 CSS3</strong> - Fictional Chocolate Bakery</p>
+				</div>
+	</table>
+</div>
+
