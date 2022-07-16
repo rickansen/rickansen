@@ -17,3 +17,9 @@
 <p align="center"> 
   Bored finance student from the Philippines so I'm here programming, solving problems with the code I write and making the world a better place.
 </p>
+
+<br/>
+
+--- 
+
+<h1 align="center">Projects</h1>
