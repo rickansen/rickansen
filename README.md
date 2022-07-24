@@ -1,4 +1,4 @@
-<img src="assets/cover.png" width="100%">
+<img src="assets/cover.webp" width="100%">
 
 <div align="center">
   <a href="https://rickansen.com">
@@ -32,7 +32,7 @@
 				<h3 align="center" color="white">Filipino Restaurant</h2>
 				<div align="center" > 
 					<a href="https://fili-resto.netlify.app">
-						<img src="assets/restaurant.gif" alt="Filipino Restaurant website gif"/>
+						<img src="assets/restaurant.webp" alt="Filipino Restaurant website gif"/>
 					</a>
 					<br>
 					<br>
@@ -54,7 +54,7 @@
 				<h3 align="center" color="white">Darc & Decadent</h2>
 				<div align="center" > 
 					<a href="https://darc-n-decadent.netlify.app/">
-						<img src="assets/bakery.gif" alt="Bakery website gif"/>
+						<img src="assets/bakery.webp" alt="Bakery website gif"/>
 					</a>
 					<br>
 					<br>
