@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center"> 
-  Bored finance student from the Philippines so I'm here programming, solving problems with the code I write and making the world a better place.
+  Asking a lot of questions and solving problems with the code I write. Growing up curious and in pursuit of personal excellence and development made me question how things around me work and how they could be improved. From dreading using calculators and creating an app that shows the formula, solution, and answer in one click as a finance student to making full-stack web applications, I realized that the only way to satisfy my curiosity was by writing lines of code that simply work.
 </p>
 
 <br/>
