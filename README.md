@@ -144,3 +144,11 @@
 		</tr>
 	</table>
 </div>
+
+---
+<h1 align="center">Coding Challenge</h1>
+
+<div align="center">
+	
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=rickansen)](https://github.com/ignacio-cuadra/github-readme-codewars)
+</div>
