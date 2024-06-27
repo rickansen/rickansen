@@ -150,5 +150,5 @@
 
 <div align="center">
 	
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=rickansen)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=rickansen)](https://www.codewars.com/users/rickansen)
 </div>
