@@ -29,6 +29,52 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
+				<h3 align="center" color="white">Ecommerce</h3>
+				<div align="center" > 
+					<a href="https://erenaissance-frontend.vercel.app/">
+						<img src="assets/ecommerce.webp" alt="Ecommerce website gif"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/kbventures/ecommerce?tab=readme-ov-file#readme-top'>
+							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://erenaissance-frontend.vercel.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
+						</a>	
+					</p>
+					<p><strong>MONGODB EXPRESS REACT NODE</strong> - MVP Ecommerce Store</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Mednology</h3>
+				<div align="center" > 
+					<a href="https://mednology.netlify.app/">
+						<img src="assets/mednology.webp" alt="Mednology website gif"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/rickansen/mednology'>
+							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://mednology.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
+						</a>	
+					</p>
+					<p><strong>MONGODB EXPRESS REACT NODE</strong> - MVP Ecommerce Store</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
 				<h3 align="center" color="white">Filipino Restaurant</h3>
 				<div align="center" > 
 					<a href="https://fili-resto.netlify.app">
@@ -49,7 +95,7 @@
 					<p><strong>HTML5 CSS3</strong> - Fictional Filipino restaurant</p>
 				</div>
 			</td>
-			<!--project 2 -->
+			<!--project 4 -->
 			<td width="50%">
 				<h3 align="center" color="white">Darc & Decadent</h3>
 				<div align="center" > 
@@ -72,7 +118,8 @@
 				</div>
 			</td>
 		</tr>
-		<tr><!--project 3 -->
+		<tr>
+			<!--project 5 -->
 			<td width="50%">
 				<h3 align="center" color="white">Source Wireframe</h3>
 				<div align="center" > 
@@ -92,28 +139,6 @@
 						</a>	
 					</p>
 					<p><strong>HTML5 CSS3</strong> - Wireframe Website</p>
-				</div>
-			</td>
-			<!--project 4 -->
-			<td width="50%">
-				<h3 align="center" color="white">Ecommerce</h3>
-				<div align="center" > 
-					<a href="https://erenaissance-frontend.vercel.app/">
-						<img src="assets/ecommerce.webp" alt="Ecommerce website gif"/>
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href='https://github.com/kbventures/ecommerce?tab=readme-ov-file#readme-top'>
-							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://erenaissance-frontend.vercel.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
-						</a>	
-					</p>
-					<p><strong>MONGODB EXPRESS REACT NODE</strong> - MVP Ecommerce Store</p>
 				</div>
 			</td>
 		</tr>
