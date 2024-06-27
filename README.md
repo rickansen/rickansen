@@ -141,11 +141,34 @@
 					<p><strong>HTML5 CSS3</strong> - Wireframe Website</p>
 				</div>
 			</td>
+			<!--project 6 -->
+			<td width="50%">
+				<h3 align="center" color="white">SABAY</h3>
+				<div align="center" > 
+					<a href="https://sabay.vercel.app/">
+						<img src="assets/sabay.webp" alt="SABAY website gif"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/dmitrykulakovfrontend/Sabay'>
+							<img src="https://img.shields.io/badge/Repo-034A4A?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://sabay.vercel.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=E87967"/>
+						</a>	
+					</p>
+					<p><strong>MONGODB EXPRESS REACT NODE</strong> - Financial Technology Website</p>
+				</div>
+			</td>
 		</tr>
 	</table>
 </div>
 
 ---
+
 <h1 align="center">Coding Challenge</h1>
 
 <div align="center">
