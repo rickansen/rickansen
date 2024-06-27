@@ -29,7 +29,7 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Filipino Restaurant</h2>
+				<h3 align="center" color="white">Filipino Restaurant</h3>
 				<div align="center" > 
 					<a href="https://fili-resto.netlify.app">
 						<img src="assets/restaurant.webp" alt="Filipino Restaurant website gif"/>
@@ -51,7 +51,7 @@
 			</td>
 			<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">Darc & Decadent</h2>
+				<h3 align="center" color="white">Darc & Decadent</h3>
 				<div align="center" > 
 					<a href="https://darc-n-decadent.netlify.app/">
 						<img src="assets/bakery.webp" alt="Bakery website gif"/>
@@ -70,9 +70,12 @@
 					</p>
 					<p><strong>HTML5 CSS3</strong> - Fictional Chocolate Bakery</p>
 				</div>
+			</td>
+		</tr>
+		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">Ecommerce</h2>
+				<h3 align="center" color="white">Ecommerce</h3>
 				<div align="center" > 
 					<a href="https://erenaissance-frontend.vercel.app/">
 						<img src="assets/ecommerce.webp" alt="Ecommerce website gif"/>
@@ -92,5 +95,6 @@
 					<p><strong>MONGODB EXPRESS REACT NODE</strong> - MVP Ecommerce Store</p>
 				</div>
 			</td>
+		</tr>
 	</table>
 </div>
